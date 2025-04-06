@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=*, initial-scale=1.0">
+    <title>Meow galore</title>
+</head>
+
+<body>
+
+
+
+    <header>
+        <h1>Cats website</h1>
+
+        <nav>
+            <a href="#footer">
+                <p>footer</p>
+            </a>
+        </nav>
+
+    </header>
+
+    <main>
+
+        <section>
+
+            <h2>All you should meow about cats</h2>
+
+            <p>Cats are my absolute favourite animal on this planet so I made this as a tribute.</p>
+        </section>
+
+        <section>
+
+            <div>
+                <img src="https://static.vecteezy.com/system/resources/thumbnails/002/098/203/small_2x/silver-tabby-cat-sitting-on-green-background-free-photo.jpg"
+                    alt="Cat-picture-img" />
+
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdTT9eH7KU0t6Xqo8YwG-5gb3gXUzjkGLaw&s"
+                    target="_blank">
+
+                    <p>Click here for more kitty pics</p>
+            </div>
+            </a>
+
+
+
+            <form>
+                <label>
+                    <p>Cat breeds</p>
+                    <input placeholder="Which is your fave breed of kitties" />
+                </label>
+
+                <button>
+                    <p>Submit</p>
+                </button>
+
+            </form>
+        </section>
+
+    </main>
+
+    <footer id="footer">
+        <p>Copyright 2025</p>
+    </footer>
+
+</body>
+
+</html>
